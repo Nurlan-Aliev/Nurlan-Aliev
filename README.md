@@ -10,15 +10,13 @@ After extensive searching, I came to the conclusion that programming is what I w
 
 It inspires me and meets all my expectations.
 
-
-
-# My Leatcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/Nurlan-Aliev)
-
-
 # Stack
 * Python
 * Django
 * Git
 * SQL
 * Docker
+
+
+# My Leatcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nurlan-Aliev)
