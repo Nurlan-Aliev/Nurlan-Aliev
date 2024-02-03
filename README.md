@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, my name is Nurlan. 
 
-<!--
-**Nurlan-Aliev/Nurlan-Aliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have always dreamed of a field where intellect is the primary focus, so my choice fell on tourism.
 
-Here are some ideas to get you started:
+However, in 2020, like many others, I realized how crucial it is to choose a field that allows one to remain adaptable regardless of external conditions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I made the decision that I want to find a sphere of activity where I won't be dependent on external factors.
+
+After extensive searching, I came to the conclusion that programming is what I want to pursue. 
+
+It inspires me and meets all my expectations.
+
+
+
+# My Leatcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nurlan-Aliev)
+
+
+# Stack
+* Python
+* Django
+* Git
+* SQL
+* Docker
