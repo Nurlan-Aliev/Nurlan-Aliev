@@ -1,21 +1,17 @@
-# Hello, my name is Nurlan. 
+# 💫 About Me:
+My name is Nurlan, and I am a backend developer. I primarily work with Python and related technologies. I enjoy tackling complex problems, automating processes, and creating useful projects.<br><br>🔭 I’m currently working on Developing an educational RPG game project for students. <br>🌱 I’m currently learning Improving my skills in backend development.<br>💬 Ask me about python<br>
 
-I have always dreamed of a field where intellect is the primary focus, so my choice fell on tourism.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurlan-aliev) 
 
-However, in 2020, like many others, I realized how crucial it is to choose a field that allows one to remain adaptable regardless of external conditions.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nurlan-Aliev&theme=vue&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlan-Aliev&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-I made the decision that I want to find a sphere of activity where I won't be dependent on external factors.
-
-After extensive searching, I came to the conclusion that programming is what I want to pursue. 
-
-It inspires me and meets all my expectations.
-
-# Stack
-* Python
-* Django
-* Git
-* SQL
-* Docker
+---
+[![](https://visitcount.itsvg.in/api?id=Nurlan-Aliev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # My Leatcode
